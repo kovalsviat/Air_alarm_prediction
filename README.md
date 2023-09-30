@@ -7,7 +7,7 @@ This repository contains a Python SaaS solution that predicts the probability of
 The project's endpoint is a Python script called "5_prediction(2).py," which is executed every hour to generate predictions of air alarms for the next 12 hours.
 
 ## How to use:
-To use the SaaS, clone this repository and run the "5_prediction(2).py" file. The script will generate predictions for the next 12 hours for all regions of Ukraine.With the help of cron, we implemented the ability to model's prediction every hour.
+To use the SaaS, clone this repository and run the 6_prediction.py" file. The script will generate predictions for the next 12 hours for all regions of Ukraine.With the help of cron, we implemented the ability to model's prediction every hour.
 
 
 ## Overview:
